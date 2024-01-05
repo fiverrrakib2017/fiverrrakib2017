@@ -31,6 +31,8 @@ Databases:`MySQL`
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" title="Git" alt="Git" />&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" title="Github" alt="Github" />&nbsp;
    <img src="https://img.shields.io/badge/PHP-CB3837.svg?style=for-the-badge&logo=PHP&logoColor=white" title="PHP" alt="NPM"/>&nbsp;
+    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" title="Laravel" alt="Laravel" />&nbsp;
+    <img src="https://img.shields.io/badge/Data_Structures_Algorithms-4285F4.svg?style=for-the-badge&logo=C&logoColor=white" title="Data Structures & Algorithms" alt="Data Structures & Algorithms" />&nbsp;
   
 </div>
 <hr>
