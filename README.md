@@ -49,3 +49,17 @@ Databases:`MySQL`
 </div>
 
 <hr>
+<hr>
+
+<br>
+<div id="badges" align="center">
+   
+  <a href="https://www.linkedin.com/in/rakib-mahmud-1b08a7269/" style="text-decoration: none"  target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/rakib56789/" style="text-decoration: none"  target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   </a>
+  
+   <br>
+</div>
