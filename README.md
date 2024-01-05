@@ -42,10 +42,10 @@ Databases:`MySQL`
 
 <hr>
 
-### :Demo Project :
-https://fkgouripur.com/demo/isp-billing
-https://fkgouripur.com/demo/noc
-https://fkgouripur.com/demo/gym
+### Demo Project :
+https://fkgouripur.com/demo/isp-billing <br>
+https://fkgouripur.com/demo/noc <br>
+https://fkgouripur.com/demo/gym <br>
 
 <br>
 <div id="badges" align="center">
