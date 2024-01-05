@@ -41,7 +41,6 @@ Databases:`MySQL`
 <hr>
 
 
-<hr>
 
 <br>
 <div id="badges" align="center">
