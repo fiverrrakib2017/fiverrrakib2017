@@ -1,6 +1,6 @@
 <div align="center">
   
-![NAZMUL](gitartwork.svg)
+![Rakib Mahmud](gitartwork.svg)
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffcc00&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Nazmul+Hossain" alt="Typing SVG" /></a></h3>
   <a href="https://app.daily.dev/heynazmul"><img src="https://api.daily.dev/devcards/6efc20f3ae744199ab4a204dd62a939a.png?r=nbh" style="margin: 5px;" width="35%" alt="Nazmul hossain's Dev Card"/></a>
   <a href="https://leetcode.com/Nazmul20">
@@ -16,7 +16,16 @@
 
 ### 🐼 About Me :
 
-Currently, I'm working as a Front-end developer intern  at Devwavee Technology. Besides that, I love to develop my skills in Fullstack web development (PHP, Laravel). Other than that, I am a Freelance Web Developer at Fiverr where I have  different clients and more than 20+ projects completed.
+Hi, I’m Rakib Mahmud PHP programmer with 4 years of experience in 
+the professional field.
+I have a deep understanding of PHP language fundamentals, object-oriented 
+programming principles, and database design. I am also proficient in front-end 
+technologies such as HTML, CSS, JavaScript, Vue.js, React.js, and jQuery, which 
+allows me to create responsive and user-friendly interfaces.
+I am always eager to learn and stay up-to-date with the latest 
+technologies and trends in web development. I am a team player with 
+strong communication skills and have worked in various crossfunctional teams, collaborating with designers, developers, and 
+project managers to deliver high-quality solutions.
 
 
 ### 😎 Skillset :
@@ -24,13 +33,10 @@ Currently, I'm working as a Front-end developer intern  at Devwavee Technology. 
 Programming Languages:  `HTML` `CSS` `JavaScript` `TypeScript` `ES6` `PHP` 
 CSS Frameworks/Libraries: `Bootstrap` `Tailwind`
 
-Javascript Frameworks/Libraries:  `jQuery`
-
-Components and UIs: `Material UI` `Styled Components `ANT design` `Flowbite` `Daisy Ui` `Tailbits`
+Javascript Frameworks/Libraries:  `jQuery` `Vue.js`
 
 Databases:`MySQL`
 
-Comfortable:  `CSS Media Query` `Both Flexbox and Grid System`
 
 Familiar with: 
 
