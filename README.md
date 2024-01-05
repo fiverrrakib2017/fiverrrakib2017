@@ -33,6 +33,8 @@ Databases:`MySQL`
     <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" title="Laravel" alt="Laravel" />&nbsp;
     <img src="https://img.shields.io/badge/CodeIgniter-EF4223.svg?style=for-the-badge&logo=CodeIgniter&logoColor=white" title="CodeIgniter" alt="CodeIgniter" />&nbsp;
     <img src="https://img.shields.io/badge/Data_Structures_Algorithms-4285F4.svg?style=for-the-badge&logo=C&logoColor=white" title="Data Structures & Algorithms" alt="Data Structures & Algorithms" />&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" />&nbsp;
+
   
 </div>
 <hr>
