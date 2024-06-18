@@ -14,8 +14,8 @@ project managers to deliver high-quality solutions.
 
 ### 😎 Skillset :
 
-Programming Languages:  `PHP` `JavaScript`
-PHP Frameworks:  `Laravel` `Codeigniter3`
+Programming Languages:  `PHP` `JavaScript`<br>
+PHP Frameworks:  `Laravel` `Codeigniter3`<br>
 Javascript Frameworks/Libraries:  `jQuery` `Vue.js`
 
 Databases:`MySQL`
