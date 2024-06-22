@@ -1,6 +1,6 @@
 ### 🐼 About Me :
 
-Hi, I’m Rakib Mahmud Software Developer with 4 years of experience in 
+Hi, I’m Rakib Mahmud Software Developer with some years of experience in 
 the professional field.
 I have a deep understanding of PHP language fundamentals, object-oriented 
 programming principles, and database design. I am also proficient in front-end 
